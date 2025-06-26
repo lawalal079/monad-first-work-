@@ -125,9 +125,10 @@ VITE_ALCHEMY_API_KEY=your_alchemy_api_key
 ### Current Configuration
 
 Your API keys are already configured in the `.env` file:
-- **QuickNode Key**: `b98fd221f28d47289b367f61eaa9d95b1671da0e`
-- **Alchemy Key**: `qhY7fc3Z4vt6SSqB83buo`
 
+- **QuickNode Key**: `********`
+- **Alchemy Key**: `********`
+  
 ## Installation
 
 // ... existing code ...
